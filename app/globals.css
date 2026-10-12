@@ -3,7 +3,7 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme inline {
-  --color-charcoal: #1a1a1a;
+  --color-charcoal: #1b1b1e;
   --font-sans: "SuisseIntl-Regular", Helvetica, sans-serif;
 }
 
