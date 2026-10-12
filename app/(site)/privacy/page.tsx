@@ -49,7 +49,7 @@ export default function PrivacyPage() {
             <p>
               If you have questions about this privacy notice, you can open an issue on the{" "}
               <a
-                href="https://github.com/taylorcain/ui"
+                href="https://github.com/colossostudio/ui"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-black underline underline-offset-2 dark:text-white"

@@ -17,7 +17,7 @@ function ColossoMark({ className }: { className?: string }) {
         className="fill-[#4d4dff] dark:fill-[#efeee4]"
       />
       <path
-        className="fill-[#efeee4] dark:fill-charcoal"
+        className="fill-[#efeee4] dark:fill-[#1a1a1a]"
         d="M316.12,263.69c-18.49,25.67-52.72,42.95-91.84,42.95-58.69,0-106.44-38.87-106.44-86.64s47.75-86.64,106.44-86.64c39.12,0,73.35,17.28,91.84,42.95l38.06-17.3c-25.06-39.88-73.89-67.01-129.9-67.01-81.49,0-147.8,57.42-147.8,128s66.3,128,147.8,128c56.01,0,104.84-27.13,129.9-67.01l-38.06-17.3Z"
       />
     </svg>
@@ -33,7 +33,7 @@ export default function SiteHeader({ isDark = false }: { isDark?: boolean }) {
       </Link>
       <div className="flex items-center gap-2">
         <a
-          href="https://github.com/taylorcain/ui"
+          href="https://github.com/colossostudio/ui"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Colosso UI on GitHub"
